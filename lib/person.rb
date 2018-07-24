@@ -1,3 +1,4 @@
 class Person
-  
+  # empty
 end
+
